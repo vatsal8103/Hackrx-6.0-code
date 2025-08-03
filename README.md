@@ -1,1 +1,3 @@
-# Hackrx-6.0-code
+- Create Virtual Environment: python -m venv myenv
+- Activate myenv : myenv/scripts/activate
+- pip install -r requirements.txt
